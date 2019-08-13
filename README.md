@@ -1,22 +1,23 @@
 # Análise de Log
-O banco de dados foi criado a partir das informações obtidas no <b>website: https://www.motivateco.com/</b> e foi criado usando commas como separadores dos valores em um arquivo chamado `chicago.csv`. Foram separados desta forma: 
+O banco de dados foi criado a partir das informações obtidas no <b>website: https://www.motivateco.com/</b> e foi criado usando commas como separadores de valores em um arquivo chamado `chicago.csv`. Foram separados desta forma: 
 <p>
   <b>Start Time:</b> Hora Inicial</br>
   <b>End Time:</b> Hora Final</br>
   <b>Trip Duration:</b> Tempo de Duração</br>
-  <b>Start Station:</b> Local de Saída</br>
-  <b>End Station:</b> Local de Entrega</br>
-  <b>User Type:</b> </br>
+  <b>Start Station:</b> Local do Início</br>
+  <b>End Station:</b> Local do Término</br>
+  <b>User Type:</b> Tipo de Usuário </br>
   <b>Gender:</b> Gênero</br>
   <b>Birth Year:</b> Ano de Nascimento</br>
 </p>
+Logo em seguida foi criado o arquivo chamado `chicago_bikeshare_pt` para guardar as informações e análises realizadas através do dataset
 
 ## Etapas iniciais
 
-Se já tiver algum dos programas listados abaixo e quiser usá-los, apenas certifique-se de estarem atualizados e instalados corretamente. Para o bom funcionamento e a visualização correta do projeto será necessário o download dos arquivos do item 5 e 6. 
+Se já tiver algum dos programas listados abaixo e quiser usá-los, apenas certifique-se de estarem atualizados e instalados corretamente. Para o bom funcionamento e a visualização correta do projeto será necessário o download dos arquivos do item 
 <ol>
   <li>Fazer o donwload e instalar o <a href="https://www.python.org/downloads/">Python 3</a> (o projeto está na versão 3.7.2)</li>
-  <li>Fazer o donwload e instalar o <a href="https://www.virtualbox.org/">Virtual Box</a></li> 
+  <li>Fazer o donwload e instalar o <a href="https://www.sublimetext.com/">Sublime</a></li>
   <li>Fazer o download e instalar o <a href="https://www.vagrantup.com/downloads.html">Vagrant</a></li>
   <li>Fazer o download e instalar o <a href="https://git-scm.com/">Git</a></li>
   <li>Fazer o download do database zipado <code>newsdata.sql</code></li>
