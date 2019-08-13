@@ -11,7 +11,7 @@
   <b>Gender:</b> Gênero</br>
   <b>Birth Year:</b> Ano de Nascimento</br>
 </p>
-Logo em seguida foi criado o arquivo chamado <code>chicago_bike.ipynb</code> para guardar as informações e análises realizadas através do dataset
+Logo em seguida foi criado o arquivo chamado <code>chicago_bike.ipynb</code> para guardar as informações e análises realizadas através do dataset e lembrando que os arquivos com formato <code>ipynb</code> são facilmente abertos no <code>Jupyter</code>
 
 ## Etapas iniciais
 
