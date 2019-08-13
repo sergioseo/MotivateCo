@@ -1,5 +1,5 @@
 # Análise de Log
-O banco de dados foi criado a partir das informações obtidas no <b>website:https://www.motivateco.com/</b>
+O banco de dados foi criado a partir das informações obtidas no <b>website: https://www.motivateco.com/</b> e foi criado usando commas como separadores dos valores em um arquivo chamado `chicago.csv`. São esses: 
 
 ## Etapas iniciais
 
