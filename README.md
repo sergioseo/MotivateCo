@@ -18,7 +18,7 @@ Logo em seguida foi criado o arquivo chamado <code>chicago_bike.ipynb</code> par
 Se já tiver algum dos programas listados abaixo e quiser usá-los, apenas certifique-se de estarem atualizados e instalados corretamente. Para o bom funcionamento e a visualização correta do projeto será necessário o download de alguns arquivos
 <ol>
   <li>Fazer o donwload e instalar o <a href="https://www.anaconda.com/">Anaconda</a></li>
-  <li>Fazer o donwload e instalar o <a href="https://www.winzip.com/win/en/downwz.html">WinZip</a>(Version para Win)</li>
+  <li>Fazer o donwload e instalar o <a href="https://www.winzip.com/win/en/downwz.html">WinZip</a>(Version para Win. No Mac há a opção direta sem necessidade de outro software)</li>
   <li>Fazer o download dos arquivos <code>chicago.csv</code> e <code>chicago_bike.ipynb</code> no repositório <a href="https://github.com/sergioseo/MotivateCo">sergioseo</a></li>
   <li>Depois de instalar o <code>Anaconda</code> procure pelo <code>Jupyter Notebook</code> e click em <code>install</code> e depois <code>launch</code></li> e ao abrir o terminal do Jupyter abra o doc chamado <code>chicago_bike.ipynb</code> para ver as análises.
   <li>Foi disponibilizado um arquivo HTML com os dados e o resultado da análise. Para acessá lo <b><a href="https://github.com/sergioseo/MotivateCo/blob/master/chicago_bike.html">click aqui<a/></b>
