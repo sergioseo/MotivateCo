@@ -23,3 +23,11 @@ Se já tiver algum dos programas listados abaixo e quiser usá-los, apenas certi
   <li>Depois de instalar o <code>Anaconda</code> procure pelo <code>Jupyter Notebook</code> e click em <code>install</code> e depois <code>launch</code></li> e ao abrir o terminal do Jupyter abra o doc chamado <code>chicago_bike.ipynb</code> para ver as análises.
   <li>Foi disponibilizado um arquivo HTML com os dados e o resultado da análise. Para acessá lo <b><a href="https://github.com/sergioseo/MotivateCo/blob/master/chicago_bike.html">click aqui<a/></b>
     <li>Também está disponível uma versão da análise em <code>Python 3</code> para apreciação. Para acessá lo <b><a href="https://github.com/sergioseo/MotivateCo/blob/master/chicago_bike.py">click aqui<a/></b>
+
+## Detalhes da Análise
+
+<p>Foram trabalhados aspectos como:
+  <ul>
+    <li>shdiusd</li>
+  </ul>
+</p>
