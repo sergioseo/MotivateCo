@@ -29,6 +29,8 @@ Se já tiver algum dos programas listados abaixo e quiser usá-los, apenas certi
 
 <p>Foram trabalhados aspectos como:
   <ul>
+    <li>Uso de funções e Loops</li>
+    <li>Criação de DataFrames e DataSets</li>
     <li>Lista total de linhas</li>
     <li>Lista total de categorias</li>
     <li>Lista de específica de cada Gênero</li>
