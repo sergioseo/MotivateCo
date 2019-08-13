@@ -22,12 +22,18 @@ Se já tiver algum dos programas listados abaixo e quiser usá-los, apenas certi
   <li>Fazer o download dos arquivos <code>chicago.csv</code> e <code>chicago_bike.ipynb</code> no repositório <a href="https://github.com/sergioseo/MotivateCo">sergioseo</a></li>
   <li>Depois de instalar o <code>Anaconda</code> procure pelo <code>Jupyter Notebook</code> e click em <code>install</code> e depois <code>launch</code></li> e ao abrir o terminal do Jupyter abra o doc chamado <code>chicago_bike.ipynb</code> para ver as análises.
   <li>Foi disponibilizado um arquivo HTML com os dados e o resultado da análise. Para acessá lo <b><a href="https://github.com/sergioseo/MotivateCo/blob/master/chicago_bike.html">click aqui<a/></b>
-    <li>Também está disponível uma versão da análise em <code>Python 3</code> para apreciação. Para acessá lo <b><a href="https://github.com/sergioseo/MotivateCo/blob/master/chicago_bike.py">click aqui<a/></b>
+  <li>Também está disponível uma versão da análise em <code>Python 3</code> para apreciação. Para acessá lo <b><a href="https://github.com/sergioseo/MotivateCo/blob/master/chicago_bike.py">click aqui<a/></b>
+</ol>
 
 ## Detalhes da Análise
 
 <p>Foram trabalhados aspectos como:
   <ul>
-    <li>shdiusd</li>
+    <li>Lista total de linhas</li>
+    <li>Lista total de categorias</li>
+    <li>Lista de específica de cada Gênero</li>
+    <li>Lista de itens mais populares</li>
+    <li>Gráficos simples de Barras</li>
   </ul>
 </p>
+<p>Não foram feitas conclusões ou modelos de análise pois o intuito era de apenas confrontar dados já listados em outras situações e foi desenvolvido como apenas uma etapa inicial para maiores análises futuras</p>
