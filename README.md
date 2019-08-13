@@ -1,6 +1,6 @@
 # Análise Inicial da Base de Dados
 <p>Essa análise foi feita para uma cliente que precisava das funções em <code>python3</code> e no formato <code>Jupyter_Note</code> e por isso está recheada de funções e Loops. Poderia ser feita mais simples e em menos tempo usando métodos como <code>min()</code>, <code>max()</code>, <code>info()</code>, etc mas haviam restrições que precisavam ser cumpridas.</p>
-<p>O banco de dados foi criado a partir das informações obtidas no <b>website:<a href="https://www.motivateco.com/", target="_blank"</b></a> e foi criado usando commas como separadores de valores em um arquivo chamado <code>chicago.csv</code>. Foram separados desta forma:</p>
+<p>O banco de dados foi criado a partir das informações obtidas no <b>website:</b><a href="https://www.motivateco.com/", target="_blank">MotivateCo</a> e foi criado usando commas como separadores de valores em um arquivo chamado <code>chicago.csv</code>. Foram separados desta forma:</p>
 <p>
   <b>Start Time:</b> Hora Inicial</br>
   <b>End Time:</b> Hora Final</br>
