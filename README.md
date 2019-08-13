@@ -13,7 +13,7 @@
 </p>
 Logo em seguida foi criado o arquivo chamado <code>chicago_bike.ipynb</code> para guardar as informações e análises realizadas através do dataset.(lembrando que os arquivos com formato <code>ipynb</code> são facilmente abertos no <code>Jupyter</code>)
 
-## Etapas iniciais
+## Etapas para obtenção dos documentos
 
 Se já tiver algum dos programas listados abaixo e quiser usá-los, apenas certifique-se de estarem atualizados e instalados corretamente. Para o bom funcionamento e a visualização correta do projeto será necessário o download de alguns arquivos
 <ol>
@@ -21,3 +21,5 @@ Se já tiver algum dos programas listados abaixo e quiser usá-los, apenas certi
   <li>Fazer o donwload e instalar o <a href="https://www.winzip.com/win/en/downwz.html">WinZip</a>(Version para Win)</li>
   <li>Fazer o download dos arquivos <code>chicago.csv</code> e <code>chicago_bike.ipynb</code> no repositório <a href="https://github.com/sergioseo/MotivateCo">sergioseo</a></li>
   <li>Depois de instalar o <code>Anaconda</code> procure pelo <code>Jupyter Notebook</code> e click em <code>install</code> e depois <code>launch</code></li> e ao abrir o terminal do Jupyter abra o doc chamado <code>chicago_bike.ipynb</code> para ver as análises.
+  <li>Foi disponibilizado um arquivo HTML com os dados e o resultado da análise. Para acessá lo <b><a href="https://github.com/sergioseo/MotivateCo/blob/master/chicago_bike.html">click aqui<a/></b>
+    <li>Também está disponível uma versão da análise em <code>Python 3</code> para apreciação. Para acessá lo <b><a href="https://github.com/sergioseo/MotivateCo/blob/master/chicago_bike.py">click aqui<a/></b>
