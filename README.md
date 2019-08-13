@@ -1,7 +1,14 @@
 # Análise de Log
 O banco de dados foi criado a partir das informações obtidas no <b>website: https://www.motivateco.com/</b> e foi criado usando commas como separadores dos valores em um arquivo chamado `chicago.csv`. Foram separados desta forma: 
 <p>
-  Start Time</br>End Time</br>Trip Duration</br>Start Station</br>End Station</br>User Type</br>Gender</br>Birth Year</br>
+  <b>Start Time:</b> Hora Inicial</br>
+  <b>End Time:</b> Hora Final</br>
+  <b>Trip Duration:</b> Tempo de Duração</br>
+  <b>Start Station:</b> Local de Saída</br>
+  <b>End Station:</b> Local de Entrega</br>
+  <b>User Type:</b> </br>
+  <b>Gender:</b> Gênero</br>
+  <b>Birth Year:</b> Ano de Nascimento</br>
 </p>
 
 ## Etapas iniciais
